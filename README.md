@@ -7,7 +7,8 @@ This app is a hangman app that tests you on your knowledge of star wars characte
 You will have to have the expo app on your phone in order to test this app.
 
 ```
-git clone
+git clone https://github.com/Nick-Masri/CSC630-Design-Challenge-3.git
+cd CSC630-Design-Challenge-3
 npm install
 npm start
 ```
